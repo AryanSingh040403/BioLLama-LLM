@@ -97,10 +97,16 @@ if __name__ == "__main__":
     print("-" * 50)
 ```
 Citation
-
-If you use this model in your research or application, please cite it as follows: Code snippet
-
-@misc{calendar2025biollama, title = {BioLLama LLM: Fine-tuned Medical Reasoning System}, author = {Calendar, S.}, year = {2025}, publisher = {Hugging Face}, url = {https://huggingface} }
+If you utilize this work, please cite it as follows:
+```bash
+@misc{aryan2025biollama,
+  title        = {BioLLama LLM: Fine-tuned Medical Reasoning System},
+  author       = {Aryan Singh}, 
+  year         = {2025},
+  publisher    = {Hugging Face},
+  url          = {https://huggingface.co/your-model}
+}
+```
 
 License
 
