@@ -28,8 +28,6 @@ Explainability: The model is specifically trained to output reasoning steps befo
 
 ## Model Specification
 
-## Model Specification
-
 | Component      | Details                                                     |
 |----------------|-------------------------------------------------------------|
 | Base Model     | ContactDoctor/Bio-Medical-llama-3-2-1B-CoT-012025           |
