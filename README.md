@@ -101,7 +101,8 @@ If you utilize this work, please cite it as follows:
 ```bash
 @misc{aryan2025biollama,
   title        = {BioLLama LLM: Fine-tuned Medical Reasoning System},
-  author       = {Aryan Singh}, 
+  author       = {Aryan Singh},
+  email        = aryansingh20030404@gmail.com
   year         = {2025},
   publisher    = {Hugging Face},
   url          = {https://huggingface.co/your-model}
