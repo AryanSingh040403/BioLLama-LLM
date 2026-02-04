@@ -25,7 +25,7 @@ from peft import (
 
 # --- Configuration ---
 # Model Configuration
-BASE_MODEL_NAME = "your_model_name_here"  # Replace with your model name
+B
 DATASET_NAME = "your_dataset_name_here"    # Replace with your dataset name
 DATASET_SUBSET_PERCENT = 0.8  # Adjust as needed
 
