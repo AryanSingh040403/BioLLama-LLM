@@ -38,10 +38,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # --- PEFT LoRA Config ---
-LORA_R = 16
-LORA_ALPHA = 32
-LORA_DROPOUT = 0.05
-LORA_TARGET_MODULES = ["q_proj", "k_proj", "v_proj", "o_proj"]
+L
 
 # --- Training Hyperparameters ---
 NUM_TRAIN_EPOCHS = 3
