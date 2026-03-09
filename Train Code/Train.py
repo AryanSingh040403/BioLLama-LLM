@@ -3,7 +3,7 @@ import logging
 import os
 import re
 import torch
-import gc
+import gcimport gc
 
 from transformers import (
     AutoModelForCausalLM,
