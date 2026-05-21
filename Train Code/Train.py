@@ -6,6 +6,8 @@ import torch
 import gc
 
 from transformers import (
+    AutoModelForCausalLM,
+    AutoTokenizer,
     TrainingArguments,
     BitsAndBytesConfig,
     TrainerCallback,
