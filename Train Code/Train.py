@@ -22,12 +22,6 @@ from peft import (
     prepare_model_for_kbit_training,
     TaskType
 )
-from peft import (
-    LoraConfig,
-    get_peft_model,
-    prepare_model_for_kbit_training,
-    TaskType
-)
 
 # --- Configuration ---
 # Model Configuration
